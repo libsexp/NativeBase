@@ -96,7 +96,7 @@
     "visualize-bundle": "^1.4.0"
   },
   "peerDependencies": {
-    "@types/react": "18.2.0",
+    "@types/react": "18.3.3",
     "@types/react-native": "0.72.8",
     "react": "18.2.0",
     "react-dom": "18.2.0",
