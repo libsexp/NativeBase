@@ -95,6 +95,15 @@
     "typescript": "5.0.4",
     "visualize-bundle": "^1.4.0"
   },
+  "peerDependencies": {
+    "@types/react": "*",
+    "@types/react-native": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-native": "*",
+    "react-native-safe-area-context": "*",
+    "react-native-svg": "*"
+  },
   "jest": {
     "preset": "jest-expo",
     "transform": {
