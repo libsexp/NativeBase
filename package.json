@@ -65,7 +65,7 @@
     "@types/lodash.omitby": "^4.6.9",
     "@types/lodash.pick": "^4.4.9",
     "@types/lodash.uniqueid": "^4.0.9",
-    "@types/react": "^18.2.0",
+    "@types/react": "^18.2.6",
     "@types/react-native": "0.72.8",
     "@types/tinycolor2": "^1.4.6",
     "@types/use-sync-external-store": "^0.0.6",
